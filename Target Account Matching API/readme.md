@@ -8,4 +8,5 @@ RUN THE COMMANDS IN THE TERMINAL AFTER NAVIGATING TO TOUR FOLDER LOCATION PATH:
 <br>
 --> npm install       (Install all the dependencies and modules)
 <br>
+
 --> npm run start     (To start the server)
